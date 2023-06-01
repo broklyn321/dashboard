@@ -33,6 +33,7 @@ body{
 }
 .navs{
     padding-bottom: 30px;
+    cursor: pointer;
 }
 .right{
     background-color: 
@@ -94,6 +95,7 @@ body{
     font-size: large;
     font-weight: bold;
     padding-bottom: 8px;
+    cursor: pointer;
 }
 .pro_d{
     color: #4F4F4F;
