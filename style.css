@@ -11,7 +11,7 @@ body{
     grid-template-columns:13% 87%;
 }
 .side{
-    background-color: #F69808;
+    background-color: #f6a220;
     color: black;
     height: 100vh;
 }
@@ -31,6 +31,9 @@ body{
     margin-left: 56px;
     font-size: 20px;
 }
+a {
+    color: black;
+  }
 .navs{
     padding-bottom: 30px;
     cursor: pointer;
@@ -94,11 +97,13 @@ body{
 .pro_t{
     font-size: large;
     font-weight: bold;
-    padding-bottom: 8px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     cursor: pointer;
 }
 .pro_d{
     color: #4F4F4F;
+    padding-left: 4px;
 }
 .inter{
     display: flex;
